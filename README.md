@@ -26,7 +26,6 @@ git clone https://github.com/behroozam/mkdocs-jinks-theme
 cd mkdocs-jinks-theme
 
 sudo setup.py install
-
 '''
 And run it like other mkdocs themes by following below command:
 
