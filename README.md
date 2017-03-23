@@ -1,5 +1,7 @@
 # MkDocs Jinks(modify to rangi) Themes
 
+## screenshots
+![orginal theme](/screenshot/yellow.png) ![rangi](screenshot/rangi.png)
 Mkdocs-jinks is a set of [Mkdocs](http://mkdocs.org) additional themes, which also supported RTL direction in Persian version.
 
 * [Persian Demo](http://behroozam.com/mkdocs-jinks-theme/persian/)
