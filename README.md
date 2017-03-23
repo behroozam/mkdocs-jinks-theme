@@ -22,8 +22,12 @@ pip install mkdocs-jinks
 for modify theme just :
 '''
 git clone https://github.com/behroozam/mkdocs-jinks-theme
+,,,
+,,,
 
 cd mkdocs-jinks-theme
+,,,
+,,,
 
 sudo setup.py install
 '''
