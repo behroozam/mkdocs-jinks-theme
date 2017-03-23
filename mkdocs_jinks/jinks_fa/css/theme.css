@@ -142,7 +142,7 @@ header, footer, main {
 	width: 20%;
 	max-width: 350px;
 	min-width: 250px;
-	background: #333;
+	background: #4b586e;
 	top: 0;
 	bottom: 0;
 	position: fixed;
@@ -163,7 +163,7 @@ header, footer, main {
 			transition: .2s;
 		}
 		.sidebar li a:hover, .sidebar li a:focus {
-			color: #f90;
+			color: #2980b9;
 		}
 		.sidebar li:first-child > a {
 			border-top: 0;
@@ -210,10 +210,10 @@ header h1 {
 }
 
 header {
-	background: #f90;
+	background: #ecf0f1;
 	overflow: hidden;
 	padding: 50px;
-	color: #fff;
+	color: #333;
 	text-shadow: 0 1px 0 #333;
 }
 
@@ -289,7 +289,7 @@ header {
 		border-radius: 50%;
 		margin-top: -2px;
 		opacity: .5;
-		background: #f90;
+		background: #2980b9;
 	}
 		.toc li a {
 			padding: 5px 0;
@@ -355,7 +355,7 @@ header {
 	.content table th {
 		background: #fff;
 		color: #333;
-		border-bottom: 1px solid #f90;
+		border-bottom: 1px solid #2980b9;
 	}
 
 	.content table th, .content table td {
@@ -400,7 +400,7 @@ header {
 		color: #333;
 	}
 	#mkdocs-search-results article:hover h3, #mkdocs-search-results article h3 a:focus {
-		color: #f90;
+		color: #2980b9;
 	}
 		#mkdocs-search-results article p {
 			color: #999;
@@ -410,7 +410,7 @@ header {
 	}
 
 footer {
-	background: #f90;
+	background: #2c3e50;
 	color: #fff;
 	position: absolute;
 	bottom: 0;

@@ -1,10 +1,10 @@
 site_name: MkDocs Jinks Themes
-site_url: http://not.yet/
-site_description: MkDocs Jinks Themes
-site_author: Anetwork Team
+site_url: http://yourname.net/
+site_description: hello world its my new doc
+site_author: yourname
 
 repo_url: https://github.com/anetwork/mkdocs-jinks
 
-copyright: Copyright &copy; 2016 Anetwork
+copyright: Copyright &copy; 2017 yoursite
 
-theme: jinks_en
+theme: jinks_fa
