@@ -28,6 +28,11 @@ git clone https://github.com/behroozam/mkdocs-jinks-theme
 cd mkdocs-jinks-theme
 
 sudo python setup.py install
+
+or for development ( egg issu)
+
+sudo python setup.py develop
+
 ```
 And run it like other mkdocs themes by following below command:
 
